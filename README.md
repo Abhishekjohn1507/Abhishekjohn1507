@@ -1,7 +1,8 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]()
 <h1 align="center">Hi 👋, I'm Abhishek John Charan</h1>
-<h3 align="center">A passionate frontend developer from India and the electronics enthusiast</h3>
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
+<h3 align="center">A passionate Web Developer and the electronics enthusiast from India. </h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekjohn1507&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekjohn1507" /> </p>
