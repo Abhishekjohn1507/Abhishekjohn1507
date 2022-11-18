@@ -2,7 +2,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]()
 <h1 align="center">Hi 👋, I'm Abhishek John Charan</h1>
 <h3 align="center">A passionate Web Developer and the electronics enthusiast from India. </h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekjohn1507&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekjohn1507" /> </p>
@@ -21,6 +21,7 @@
 
 - 📫 How to reach me **abhishekjohnchran@gmail.com**
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/abhishekjohncharan3124" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhishekjohncharan3124" height="30" width="40" /></a>
