@@ -19,7 +19,7 @@
 
 - 👯 I’m looking to collaborate on **Robotics projects**
 
-- 📝 I regularly posting video on my channel [https://www.youtube.com/channel/UCeBVjG6J0BfSw5PQx19HTBw](https://www.youtube.com/channel/UCeBVjG6J0BfSw5PQx19HTBw)
+- 📝 I regularly posting video on my channel https://youtube.com/@abhishekjohncharan3124
 
 - 📫 How to reach me **abhishekjohnchran@gmail.com**
 
