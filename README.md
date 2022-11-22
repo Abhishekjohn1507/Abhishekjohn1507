@@ -23,9 +23,8 @@
 
 - 📫 How to reach me **abhishekjohnchran@gmail.com**
 
-- 📫 BADGES [EVC Networks]()
 
-
+<hr>
 
 
 
