@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]()
+o[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]()
 
 <h1 align="center">Hey 👋 I'm Abhishek John Charan</h1>
 <h3 align="center">🚀 Full Stack & Mobile Developer | ☁️ Cloud + AI Tools Enthusiast | 🎥 Tech Creator</h3>
@@ -94,51 +94,75 @@ Posting tech reviews, unboxings, and AI tools. Recent uploads: Redmi Pad Pro 5G,
 
 ## 💻 Tech Stack
 
-### 🎨 Frontend & UI  
-HTML • CSS • JavaScript • TypeScript • React • Next.js • TailwindCSS
+### 🖥️ Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
 
-### 📱 Mobile  
-React Native • Expo
+### 📱 Mobile
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo)
 
-### ⚙️ Backend & DB  
-Node.js • MongoDB • MySQL • Prisma • Convex • Firebase • Clerk
+### 🧠 Backend & DB
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=flat&logo=firebase&logoColor=black)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=prisma)
+![Convex](https://img.shields.io/badge/Convex-2F00FF?style=flat)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Clerk](https://img.shields.io/badge/Clerk-000000?style=flat)
 
-### ☁️ Cloud & Serverless  
-AWS • Lambda • Google Cloud • Vercel
+### ☁️ Cloud & Serverless
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![Lambda](https://img.shields.io/badge/AWS_Lambda-orange?style=flat)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel)
 
-### 🧩 Tools & Others  
-Git • Remotion • Three.js • Figma • Linux
+### 🎨 Tools & Platforms
+![Remotion](https://img.shields.io/badge/Remotion-black?style=flat)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishekjohn1507&theme=radical&hide_border=false&include_all_commits=true&count_private=true" width="50%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekjohn1507&theme=radical&hide_border=false" width="45%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekjohn1507&theme=radical&hide_border=false&layout=compact" width="50%"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhishekjohn1507&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekjohn1507&theme=radical&hide_border=false" height="180" />
+</p>
 
 ---
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhishekjohn1507&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=abhishekjohn1507&theme=radical&no-frame=false&no-bg=true&margin-w=10" />
 </p>
 
 ---
 
 ## 💬 Quote of the Day
 
-> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
 
 ---
 
 ## 👀 Visitor Counter
 
-[![](https://visitcount.itsvg.in/api?id=abhishekjohn1507&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=abhishekjohn1507&icon=5&color=6" />
+</p>
 
 ---
 
-> 🔗 Created with ❤️ using ChatGPT + GPRM | Powered by **AWS**, **Convex**, **Remotion**, **Firebase**, and **Cashfree**
+<p align="center">
+  Made with ❤️ by Abhishek using 🔥 Remotion + AWS Lambda + Convex + React Native  
+</p>
