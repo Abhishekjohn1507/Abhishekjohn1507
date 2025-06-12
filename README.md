@@ -1,57 +1,111 @@
-
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]()
+
 <h1 align="center">Hi 👋, I'm Abhishek John Charan</h1>
-<h3 align="center">A passionate Web Developer and the electronics enthusiast from India. </h3>
+<h3 align="center">Full Stack & Mobile Developer | Cloud + AI Tools | YouTube Tech Creator</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=FRONTEND+Developer+%7C+HTML+CSS;JavaScript+%7C+BOOTSTRAP;Nodejs+%7C+MongoDB+%7C+MySQL)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=React+%7C+Next.js+%7C+React+Native+%7C+Node.js+%7C+AWS+%7C+GCP+%7C+Convex+DB+%7C+Firebase)](https://git.io/typing-svg)
 
-<img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekjohn1507&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekjohn1507" /> </p>
+## 💫 About Me:
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishekjohn1507" alt="abhishekjohn1507" /></a> </p>
+🎓 Final year CSE student at Shri Ramswaroop Memorial University  
+🎯 Passionate about building AI apps, mobile-first tools, and scalable APIs  
+📹 Tech content creator on [YouTube](https://www.youtube.com/@techloverjohn3124)  
+📫 Reach me at **ashishcharan999@gmail.com**
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+---
 
-- 🔭 I’m currently working on [EVC Networks](https://abhishekjohn1507.github.io/Smart_internz_project/)
+## 🚀 Featured Projects:
 
-- 🌱 I’m currently learning **Web-Devlopment,Video Editing**
+### 🧠 CyberBlox AI
+> AI-powered **image**, **video**, and **audio** generation platform.  
+> Built using: `Replicate API`, `Remotion`, `Deepgram`, `Node.js`, `Convex`, `Inngest`, `Firebase Auth`
 
-- 👯 I’m looking to collaborate on **Robotics projects**
+### 🚖 BlackCab Travel Planner
+> Full-featured **cab booking website** built with WordPress  
+> Designed for luxury & business travelers
 
-- 📝 I regularly posting video on my channel https://youtube.com/@abhishekjohncharan3124
+### 📱 Android Travel Planner App
+> Built using `React Native + Expo + Next.js`  
+> Includes hotel booking, trip planning, live location, and Google Places API integration
 
-- 📫 How to reach me **abhishekjohnchran@gmail.com**
+### 🧾 AI Content Generator
+> Custom dynamic form generation using templates  
+> Markdown editor powered by Toast UI + AI content creation with templates
 
+### 🎫 Carpool Ticket Booking Website
+> Simple ticket booking UI with output generation & backend storage  
+> Built with EJS templating + Node.js + MongoDB
 
-<hr>
+### 🔐 API Key Auth + Protected AI API
+> Next.js server API route protected with API Key stored in Convex  
+> Fully secure AI API generation flow using client/server architecture
 
+### 🎬 Lambda Video Generator
+> Serverless video generation using Remotion + AWS Lambda  
+> Integrated with S3, GCP, and Cloud Functions
 
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/abhishekjohncharan3124" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhishekjohncharan3124" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucebvjg6j0bfsw5pqx19htbw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucebvjg6j0bfsw5pqx19htbw" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abhishekjohncharan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishekjohncharan" height="30" width="40" /></a>
-</p>
+## 💻 Tech Stack:
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-<br>
-<hr>
+### 🚀 Core Web & Mobile
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/nextjs-black?style=plastic&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/react--native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)
 
+### 💾 Backend, DB & Auth
+![Convex](https://img.shields.io/badge/Convex-3F00FF?style=plastic&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=plastic&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-ffca28.svg?style=plastic&logo=firebase&logoColor=black)
+![Prisma](https://img.shields.io/badge/prisma-3982CE.svg?style=plastic&logo=prisma&logoColor=white)
+![Clerk](https://img.shields.io/badge/Clerk-121111?style=plastic)
 
+### ☁️ Cloud Platforms
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white)
+![Lambda](https://img.shields.io/badge/AWS_Lambda-orange?style=plastic&logo=aws-lambda&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=plastic&logo=google-cloud&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white)
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/abhishekjohn"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/abhishekjohn" /></a></p><br><br>
-<hr>
+### 🔧 Dev Tools & Others
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
+![Remotion](https://img.shields.io/badge/Remotion-black?style=plastic)
+![Three.js](https://img.shields.io/badge/threejs-black?style=plastic&logo=three.js&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=plastic&logo=linux&logoColor=black)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekjohn1507&show_icons=true&locale=en&layout=compact" alt="abhishekjohn1507" /></p>
+---
 
-<hr>
+## 📊 GitHub Stats:
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=abhishekjohn1507&show_icons=true&locale=en" alt="abhishekjohn1507" /></p>
- <br>
- 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekjohn1507&" alt="abhishekjohn1507" /></p>
- 
+![](https://github-readme-stats.vercel.app/api?username=abhishekjohn1507&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=abhishekjohn1507&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekjohn1507&theme=dark&hide_border=false&layout=compact)
+
+---
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=abhishekjohn1507&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+---
+
+## ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=abhishekjohn1507&icon=0&color=0)](https://visitcount.itsvg.in)
+
+---
+
+<!-- Created with ❤️ by Abhishek John using GPRM (https://gprm.itsvg.in) -->
