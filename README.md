@@ -31,62 +31,83 @@
 
 ---
 
-## 🧠 Featured Projects
+## 🚀 Featured Projects
 
-| ⭐ Project Name | 🌟 Description | 🔧 Tech Stack |
-|----------------|----------------|----------------|
-| **CyberBlox AI** | AI platform for image, video, audio generation | `Next.js`, `Replicate`, `Remotion`, `Deepgram`, `Convex`, `Firebase` |
-| **BlackCab Website** | Luxury cab booking in WordPress | `WordPress`, `SEO`, `Design` |
-| **AI Travel Planner (App)** | Trip planning, hotels, live maps | `React Native`, `Expo`, `Firebase`, `Google Maps` |
-| **Create AI Content Tool** | Form templates + AI writer | `Next.js`, `Toast UI`, `Convex`, `OpenAI` |
-| **Carpool Ticket Booking** | EJS-based ticket site | `Node.js`, `MongoDB`, `EJS`, `Bootstrap` |
-| **Remotion Lambda** | Video generation using AWS Lambda | `Remotion`, `Lambda`, `S3`, `CloudRun` |
-| **SaaS + Cashfree** | Dynamic checkout + billing | `Convex`, `React`, `Cashfree Payments` |
-| **Secure AI API** | API Key authentication with Convex | `Next.js`, `Middleware`, `Convex`, `Stripe` |
-| **Career Page (Skillzee)** | Internship listing page | `Strapi`, `Next.js`, `Tailwind` |
-| **YouTube Tech** | Unboxing and product review | `Redmi Pad Pro`, `FireTV`, `Blog Tools` |
+#### 🔹 [CyberBlox AI](https://github.com/abhishekjohn1507/cyberblox-ai)  
+AI SaaS platform for image, video, and audio generation. Uses Replicate, Remotion, Deepgram, Convex, Firebase, and Cloud Run.  
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_Project-181717?style=flat&logo=github)](https://github.com/abhishekjohn1507/cyberblox-ai)
 
-> 🧩 **Total Projects**: 10+  
-> 💡 **Live Projects, SaaS demos, & GitHub links available on request!**
+---
+
+#### 🔹 [BlackCab – Premium Cab Booking Site](https://blackcab.in)  
+Luxury cab booking website built with WordPress. Optimized for SEO, performance, and clean UI.
+
+---
+
+#### 🔹 [AI Travel Planner App](https://github.com/abhishekjohn1507/ai-travel-planner)  
+Trip planning app using React Native, Google Maps API, hotel photos, and live travel data.  
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_App-181717?style=flat&logo=github)](https://github.com/abhishekjohn1507/ai-travel-planner)
+
+---
+
+#### 🔹 [AI Content Generator Tool](https://github.com/abhishekjohn1507/ai-content-tool)  
+Generate blogs using form templates and OpenAI. Uses Next.js, Toast UI, and Convex backend.  
+[![View on GitHub](https://img.shields.io/badge/GitHub-Explore_Code-181717?style=flat&logo=github)](https://github.com/abhishekjohn1507/ai-content-tool)
+
+---
+
+#### 🔹 [Carpool Ticketing Web App](https://github.com/abhishekjohn1507/carpool-ticket-app)  
+EJS + Node.js web app to book carpool tickets and receive confirmation.  
+[![View on GitHub](https://img.shields.io/badge/GitHub-Source_Code-181717?style=flat&logo=github)](https://github.com/abhishekjohn1507/carpool-ticket-app)
+
+---
+
+#### 🔹 [Remotion Lambda Rendering](https://github.com/abhishekjohn1507/remotion-lambda-serverless)  
+Video rendering using Remotion on AWS Lambda, integrated with Inngest and Deepgram.  
+[![View on GitHub](https://img.shields.io/badge/GitHub-Remotion_Lambda-181717?style=flat&logo=github)](https://github.com/abhishekjohn1507/remotion-lambda-serverless)
+
+---
+
+#### 🔹 [Cashfree SaaS Billing](https://github.com/abhishekjohn1507/cashfree-react-integration)  
+Dynamic checkout integration using Cashfree and Convex for SaaS dashboards.  
+[![View on GitHub](https://img.shields.io/badge/GitHub-Billing_Integration-181717?style=flat&logo=github)](https://github.com/abhishekjohn1507/cashfree-react-integration)
+
+---
+
+#### 🔹 [Secure AI API (with Convex)](https://github.com/abhishekjohn1507/secure-api-convex)  
+Protected API using API keys, rate limiting, and server-side Convex DB.  
+[![View on GitHub](https://img.shields.io/badge/GitHub-Secure_API-181717?style=flat&logo=github)](https://github.com/abhishekjohn1507/secure-api-convex)
+
+---
+
+#### 🔹 [Skillzee Career CMS](https://github.com/abhishekjohn1507/skillzee-careers)  
+Internship listing page powered by Strapi CMS and Next.js frontend.  
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_Skillzee-181717?style=flat&logo=github)](https://github.com/abhishekjohn1507/skillzee-careers)
+
+---
+
+#### 🔹 [YouTube Channel – Tech Lover John](https://www.youtube.com/@techloverjohn3124)  
+Posting tech reviews, unboxings, and AI tools. Recent uploads: Redmi Pad Pro 5G, Fire TV Stick, and blog tools.  
+[![YouTube](https://img.shields.io/badge/Watch_on_YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@techloverjohn3124)
 
 ---
 
 ## 💻 Tech Stack
 
-### 🎨 Frontend & UI
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=plastic&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=plastic&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=plastic&logo=next.js)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=plastic&logo=tailwind-css)
+### 🎨 Frontend & UI  
+HTML • CSS • JavaScript • TypeScript • React • Next.js • TailwindCSS
 
-### 📱 Mobile Dev
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=plastic&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=plastic&logo=expo)
+### 📱 Mobile  
+React Native • Expo
 
-### ⚙️ Backend & DB
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=plastic&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=plastic&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=plastic&logo=prisma)
-![Convex](https://img.shields.io/badge/Convex-2F00FF?style=plastic)
-![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=plastic&logo=firebase&logoColor=black)
-![Clerk](https://img.shields.io/badge/Clerk-black?style=plastic)
+### ⚙️ Backend & DB  
+Node.js • MongoDB • MySQL • Prisma • Convex • Firebase • Clerk
 
-### ☁️ Cloud & Serverless
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=plastic&logo=amazonaws&logoColor=white)
-![Lambda](https://img.shields.io/badge/AWS_Lambda-orange?style=plastic)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=plastic&logo=google-cloud&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=plastic&logo=vercel)
+### ☁️ Cloud & Serverless  
+AWS • Lambda • Google Cloud • Vercel
 
-### 🔧 Dev Tools & Other Skills
-![Remotion](https://img.shields.io/badge/Remotion-black?style=plastic)
-![Three.js](https://img.shields.io/badge/Three.js-black?style=plastic&logo=three.js)
-![Git](https://img.shields.io/badge/Git-F05033?style=plastic&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=figma&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
+### 🧩 Tools & Others  
+Git • Remotion • Three.js • Figma • Linux
 
 ---
 
