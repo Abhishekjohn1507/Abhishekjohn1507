@@ -86,7 +86,7 @@ Internship listing page powered by Strapi CMS and Next.js frontend.
 
 ---
 
-#### 🔹 [YouTube Channel – Tech Lover John](https://www.youtube.com/@techloverjohn3124)  
+#### 🔹 [YouTube Channel – Tech Lover John](https://www.youtube.com/@techloverjohn)  
 Posting tech reviews, unboxings, and AI tools. Recent uploads: Redmi Pad Pro 5G, Fire TV Stick, and blog tools.  
 [![YouTube](https://img.shields.io/badge/Watch_on_YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@techloverjohn3124)
 
