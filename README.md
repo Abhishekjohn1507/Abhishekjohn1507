@@ -33,18 +33,18 @@ o[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/u
 
 ## 🚀 Featured Projects
 
-#### 🔹 [CyberBlox AI](https://github.com/abhishekjohn1507/cyberblox-ai)  
+#### 🔹 [CyberBlox AI](https://cyberbloxai.in/)  
 AI SaaS platform for image, video, and audio generation. Uses Replicate, Remotion, Deepgram, Convex, Firebase, and Cloud Run.  
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_Project-181717?style=flat&logo=github)](https://github.com/abhishekjohn1507/cyberblox-ai)
 
 ---
 
-#### 🔹 [BlackCab – Premium Cab Booking Site](https://blackcab.in)  
+#### 🔹 [BlackCab – Premium Cab Booking Site](https://blackcabservice.in/)  
 Luxury cab booking website built with WordPress. Optimized for SEO, performance, and clean UI.
 
 ---
 
-#### 🔹 [AI Travel Planner App](https://github.com/abhishekjohn1507/ai-travel-planner)  
+#### 🔹 [AI Travel Planner App](https://skillzee.co.in/software/ai-travel-planner/)  
 Trip planning app using React Native, Google Maps API, hotel photos, and live travel data.  
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_App-181717?style=flat&logo=github)](https://github.com/abhishekjohn1507/ai-travel-planner)
 
@@ -68,7 +68,7 @@ Video rendering using Remotion on AWS Lambda, integrated with Inngest and Deepgr
 
 ---
 
-#### 🔹 [Cashfree SaaS Billing](https://github.com/abhishekjohn1507/cashfree-react-integration)  
+#### 🔹 [Cashfree SaaS Billing](https://cashfree-test-payment.vercel.app/)  
 Dynamic checkout integration using Cashfree and Convex for SaaS dashboards.  
 [![View on GitHub](https://img.shields.io/badge/GitHub-Billing_Integration-181717?style=flat&logo=github)](https://github.com/abhishekjohn1507/cashfree-react-integration)
 
