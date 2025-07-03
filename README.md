@@ -27,7 +27,7 @@ o[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/u
 - 💼 I build mobile-first AI + SaaS tools, APIs, and full-stack cloud apps  
 - 🎯 Passionate about product building, serverless cloud, and AI/ML APIs  
 - 📹 Creating helpful tech videos on unboxings, AI tools, and code  
-- 📫 Reach me at **ashishcharan999@gmail.com**
+- 📫 Reach me at **abhishekjohncharan@skillzee.co.in**
 
 ---
 
